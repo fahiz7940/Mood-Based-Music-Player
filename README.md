@@ -38,7 +38,7 @@ mood-music-player/
 
 ## 🌐 Live Demo
 
-🔗 [View Live Project](https://fahiz7940.github.io/Mood-Based-Music-Player/index.html)
+🔗 [View Live Project](https://fahiz7940.github.io/Mood-Based-Music-Player/mood-music-player/index.html)
 
 ## 📸 Screenshot
 
