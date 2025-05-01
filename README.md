@@ -32,8 +32,8 @@ mood-music-player/
    - `happy.mp3`
    - `sad.mp3`
    - `chill.mp3`
-   - `energetic.mp3`
-3. Place them inside the `/assets` folder.
+   - `hyp.mp3`
+3. Place them inside the `/asset` folder.
 4. Open `index.html` in your browser and enjoy!
 
 ## 🌐 Live Demo
