@@ -42,7 +42,7 @@ mood-music-player/
 
 ## 📸 Screenshot
 
-![Mood Music Player Screenshot](screenshot.png)
+![Mood Music Player Screenshot](Screenshot2025-05-02002423.png)
 
 ## 🧠 Inspiration
 
