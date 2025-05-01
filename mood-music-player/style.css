@@ -1,0 +1,85 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+
+  body {
+    height: 100vh;
+    background: linear-gradient(to right, #4facfe, #00f2fe);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .container {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 16px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    width: 90%;
+    max-width: 500px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-bottom: 1.5rem;
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  /* Mood buttons */
+  .mood-buttons {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom: 2rem;
+  }
+  
+  .mood-buttons button {
+    padding: 0.7rem 1.2rem;
+    border: none;
+    border-radius: 8px;
+    margin: 0.5rem;
+    cursor: pointer;
+    transition: transform 0.2s ease, background 0.3s ease;
+    font-size: 1rem;
+    font-weight: bold;
+    color: white;
+  }
+  
+  button[data-mood="happy"] {
+    background: #fbc531;
+  }
+  
+  button[data-mood="sad"] {
+    background: #273c75;
+  }
+  
+  button[data-mood="chill"] {
+    background: #9c88ff;
+  }
+  
+  button[data-mood="energetic"] {
+    background: #e84118;
+  }
+  
+  .mood-buttons button:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Player section */
+  .player-section h2 {
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    color: #555;
+  }
+  
+  audio {
+    width: 100%;
+    outline: none;
+  }
+  
