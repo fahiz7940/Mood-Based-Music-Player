@@ -42,7 +42,7 @@ mood-music-player/
 
 ## 📸 Screenshot
 
-![Mood Music Player Screenshot](https://fahiz7940.github.io/Mood-Based-Music-Player/ssp.png)
+<img src="https://fahiz7940.github.io/Mood-Based-Music-Player/ssp.png" />
 
 ## 🧠 Inspiration
 
