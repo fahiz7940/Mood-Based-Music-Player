@@ -54,5 +54,5 @@ This project is open-source and free to use.
 
 ---
 
-### Made with ❤️ by [Fahiz](https://www.linkedin.com/in/your-link)
+### Made with ❤️ by [Muhammed Umarul Fahiz](https://www.linkedin.com/in/mohammed-fahiz-882b77256/)
 
